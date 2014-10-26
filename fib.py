@@ -12,5 +12,6 @@ def fib1(n):
     return fibList
 """
 x=int(input("max num: "))
-print(fib2(x))
+print(fib1(x))
 """
+
